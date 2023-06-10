@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **sn0wk3ys/sn0wk3ys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=sn0wk3ys&theme=transparent&show_icons=true&text_color=ffff&hide_border=true" alt="sn0wk3ys' Github Stats Card">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sn0wk3ys&layout=compact&text_color=ffff&hide_border=true&bg_color=00000000" alt="sn0wk3ys' Github Languages Stats Card">
+</div>
