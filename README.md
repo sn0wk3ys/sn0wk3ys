@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=sn0wk3ys&theme=transparent&show_icons=true&text_color=ffff&hide_border=true" alt="sn0wk3ys' Github Stats Card">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sn0wk3ys&layout=compact&text_color=ffff&hide_border=true&bg_color=00000000" alt="sn0wk3ys' Github Languages Stats Card">
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sn0wk3ys&theme=transparent&show_icons=true&text_color=ffff&hide_border=true" alt="sn0wk3ys' Github Stats Card">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sn0wk3ys&layout=compact&text_color=ffff&hide_border=true&bg_color=00000000" alt="sn0wk3ys' Github Languages Stats Card">
 </div>
